@@ -2,6 +2,8 @@
 
 I like to develop cool stuff and I have lots of experience in doing so, mainly utilising Lua (on the ROBLOX platform) & Microsoft's C/++/# languages, however more recently, with Rust too!
 
+Aside from that, I like to learn how stuff works! (mainly for security research reasons, but also because it's good to know how a VM works before you write code for it 💪)
+
 I love Aviation, I spend a portion of my free time flying and gaining hours, working towards my license, I also fly virtually on VATSIM!
 
 Oh, and uh I also love music.
