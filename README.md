@@ -2,7 +2,7 @@
 
 I like to develop cool stuff and I have lots of experience in doing so, mainly utilising Lua (on the ROBLOX platform) & Microsoft's C/++/# languages, however more recently, with Rust too!
 
-Aside from that, I like to learn how stuff works! (mainly for security research reasons, but also because it's good to know how a VM works before you write code for it 💪)
+Aside from that, I like to learn how stuff works! (mainly for security research reasons, but also for fun!)
 
 I love Aviation, I spend a portion of my free time flying and gaining hours, working towards my license, I also fly virtually on VATSIM!
 
@@ -34,9 +34,7 @@ Oh, and uh I also love music.
 [![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox&color=000000&logo=Roblox&logoColor=FFFFFF&label=)](https://www.roblox.com/users/18957048/profile)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://Lonegladiator@protonmail.com)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=will.campbell1980&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=will.campbell1980&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### I hope to see you around!
-
-<img src="https://cdn.discordapp.com/attachments/1050346690521092189/1120837856382955650/785674721965637653.png" width=50 height=50/>
